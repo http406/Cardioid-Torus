@@ -11,20 +11,11 @@ It is often defined using a parametric equation where the inner and outer radii 
 
 The equation used in your code is:
 
-\[
-\begin{aligned}
-x &= (R + r(2\sin(v) - \sin(k_1 v))) \cos(u) \\
-y &= r(2\cos(v) - \cos(k_2 v)) \\
-z &= (R + r(2\sin(v) - \sin(k_3 v))) \sin(u)
-\end{aligned}
-\]
+![Image](https://github.com/user-attachments/assets/a615ad35-33c9-404a-a3e2-78d10d85f1be)
 
 #### **Breaking Down the Parameters**  
-- **\( R \)** → The **major radius** of the torus (distance from the center of the torus to the middle of the tube).  
-- **\( r \)** → The **minor radius** of the torus (radius of the tube itself).  
-- **\( u \)** → A parameter that controls the **angle of rotation around the torus' center** (like latitude).  
-- **\( v \)** → A parameter that controls the **twisting of the torus' tube** (like longitude).  
-- **\( k_1, k_2, k_3 \)** → These are **modulation factors** that determine the level of distortion in each coordinate direction.
+
+![Image](https://github.com/user-attachments/assets/d817fbc1-bd9f-495a-8eba-1890ce653e45)
 
 ---
 
